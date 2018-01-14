@@ -16,7 +16,7 @@ int main()
     cout << "You entered the following array:\n";
     printArray(myArray, 0, ARR_SIZE);
 
-    //call QuickSort and store result
+    //call QuickSort 
     quickSort(myArray, 0, ARR_SIZE);
 
     //print result
